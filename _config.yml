@@ -84,7 +84,7 @@ content:
         quote: >
           Yrkeshögskola i djupaste Småland som bedrivits sedan 1996. Med mycket tid förlagd för praktik garanteras erfarenhet.*
         description: | # this will include new lines to allow paragraphs
-          Under min utbildning har jag fått lära mig mycket om relevant IT; allt från M365 till ISO/OSI-modellen. Under de båda åren som utbildningen pågick spenderades mycket tid på praktk vilket varit värdefullt. 
+          Under min utbildning har jag fått lära mig mycket om relevant IT; allt från M365 till ISO/OSI-modellen. Under de båda åren som utbildningen pågick spenderades mycket tid på praktik vilket varit värdefullt. 
 
   - title: Yrkeserfarenhet # Title for the section
     layout: list # Type of content section (list/text)
