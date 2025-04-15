@@ -48,7 +48,7 @@ additional_links:
 # about_title: About me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hej! Mitt namn är Jonathan och jag är nykläckt IT-infrastrukturstekniker. Förutom att hantera nätverk, moln och säkerhet inom IT har jag också intresse inom automation (Ansible) och programmering. 
+  Hej! Mitt namn är Jonathan och jag är nykläckt IT-infrastrukturstekniker. Förutom att hantera nätverk, moln och säkerhet inom IT har jag också intresse för automation (Ansible) samt programmering. 
 
   Det jag skulle säga jag är bäst på är: <mark>Lära mig snabbt</mark> och är <mark>Lojal</mark>
   
@@ -61,7 +61,7 @@ content:
         link: github.com/jonathan-dnc/examensarbete
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Examensarbete
             icon: fab fa-github
             url: github.com/jonathan-dnc/examensarbete
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -114,7 +114,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: References on test (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
