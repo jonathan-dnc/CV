@@ -84,7 +84,7 @@ content:
         quote: >
           Yrkeshögskola i djupaste Småland som bedrivits sedan 1996. Med mycket tid förlagd för praktik garanteras erfarenhet.*
         description: | # this will include new lines to allow paragraphs
-          Under min utbildning har jag fått lära mig mycket om relevant IT; allt från M365 till ISO/OSI-modellen. Under de båda åren som utbildningen pågick spenderades mycket tid på praktik vilket varit värdefullt. 
+          Under min utbildning har jag fått lära mig mycket om relevant IT; allt från M365 till ISO/OSI-modellen. Under de båda åren som utbildningen pågick spenderades mycket tid på praktik vilket varit värdefullt. Jag gjorde min praktik på Nordlo i Ljungby och Operating Systems på INGKA AB. På båda placeringarna fick jag chans att lära mig mycket och få insikt i de många olika aspekterna som finns inom IT.
 
   - title: Yrkeserfarenhet # Title for the section
     layout: list # Type of content section (list/text)
@@ -94,11 +94,11 @@ content:
         link: https://www.regionkronoberg.se/
         # link_text: boringcompany.com
         sub_title: Vårdadministratör
-        caption: November 2017 - Juli 2023
+        caption: November 2017 - Augusti 2023
         quote: >
           Vårt uppdrag är att främja hälsa, hållbarhet och tillväxt i Kronoberg. Vår vision är ett gott liv i ett livskraftigt Kronoberg.*
         description: | # this will include new lines to allow paragraphs
-            Arbete där jag var anställd som vårdadministratör och utförde allehanda administrativa arbetsuppgifter, fick också agera som de facto IT-tekniker bland kollegor.
+            Arbete där jag var anställd som vårdadministratör och utförde allehanda administrativa arbetsuppgifter, fick också agera som de facto IT-tekniker bland kollegor. Hade ett flertal olika roller som varit nyttiga.
 
   - title: Lite mer om mig!
     layout: text
