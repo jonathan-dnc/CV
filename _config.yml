@@ -50,7 +50,7 @@ about_profile_image: images/1716268874476.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hej! Mitt namn är Jonathan och jag är nykläckt IT-infrastrukturstekniker. Förutom att hantera nätverk, moln och säkerhet inom IT har jag också intresse för automation (Ansible) samt programmering. 
 
-  Det jag skulle säga jag är bäst på är: <mark>Lära mig snabbt</mark> och är <mark>Lojal</mark>
+  Det jag skulle säga jag är bäst på är: <mark>Lära mig snabbt</mark> och är <mark>Lojal</mark>. Ser fram emot att göra avtryck i IT-världen!
   
 content:
   - title: Projekt # Title for the section
@@ -70,7 +70,7 @@ content:
         quote: >
           Om att implementera automation
         description: | # this will include new lines to allow paragraphs
-          Jag skrev mitt examensarbete om att implementera automation i hybridmiljö. Anledningen? Jag tycker om automation och speciellt med <mark>Ansible</mark>. Det är någonting visst att få ett fullfjädrat skript att fungera. Genom arbetets gång lärde jag mig nya färdigheter och är stolt över resultatet!
+          Jag skrev mitt examensarbete om att implementera automation i hybridmiljö. Anledningen? Jag tycker om automation och speciellt med <mark>Ansible</mark>. Det är någonting visst att få ett fullfjädrat skript att fungera. Genom arbetets gång lärde jag mig nya färdigheter som jag kommer ha nytta av och är stolt över resultatet!
 
   - title: Utbildning # Title for the section
     layout: list # Type of content section (list/text)
@@ -78,13 +78,13 @@ content:
       - layout: left
         title: IRC Ljungby
         title: IT-infrastrukturtekniker - moln & säkerhet
-        caption: Juli 2023 - Juni 2025
+        caption: Augusti 2023 - Juni 2025
         sub_title: Yrkeshögskoleexamen
         link: https://www.ircyh.se/?page_id=490
         quote: >
           Yrkeshögskola i djupaste Småland som bedrivits sedan 1996. Med mycket tid förlagd för praktik garanteras erfarenhet.*
         description: | # this will include new lines to allow paragraphs
-          Under min utbildning har jag fått lära mig mycket om relevant IT; allt från M365 till ISO/OSI-modellen. Under de båda åren som utbildningen pågick spenderades mycket tid på praktik vilket varit värdefullt. Jag gjorde min praktik på Nordlo i Ljungby och Operating Systems på INGKA AB. På båda placeringarna fick jag chans att lära mig mycket och få insikt i de många olika aspekterna som finns inom IT.
+          Under min utbildning har jag fått lära mig mycket om relevant IT; allt från M365 till ISO/OSI-modellen. Under de båda åren som utbildningen pågick spenderades mycket tid på praktik vilket varit värdefullt. Jag gjorde min praktik på Nordlo i Ljungby och Operating Systems på INGKA AB. På båda placeringarna fick jag chans att lära mig mycket, fått insikt i de många olika aspekterna som finns inom IT.
 
   - title: Yrkeserfarenhet # Title for the section
     layout: list # Type of content section (list/text)
@@ -98,7 +98,7 @@ content:
         quote: >
           Vårt uppdrag är att främja hälsa, hållbarhet och tillväxt i Kronoberg. Vår vision är ett gott liv i ett livskraftigt Kronoberg.*
         description: | # this will include new lines to allow paragraphs
-            Arbete där jag var anställd som vårdadministratör och utförde allehanda administrativa arbetsuppgifter, fick också agera som de facto IT-tekniker bland kollegor. Hade ett flertal olika roller som varit nyttiga.
+          Arbete där jag var anställd som vårdadministratör och utförde allehanda administrativa arbetsuppgifter, fick också agera som de facto IT-tekniker bland kollegor. Hade ett flertal olika roller inom organisationen som varit nyttiga erfarenheter.
 
   - title: Lite mer om mig!
     layout: text
@@ -107,7 +107,7 @@ content:
       - Familjen, stolt bonuspappa.
       - Musik, spela och lyssna.
       - Husprojekt, för det måste man om man har ett hus.
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - [Cats!](https://www.youtube.com/watch?v=3BdGBZIWPcY)
 
       Look at this cool image  
       ![Trees](images/landscape-trees.jpg "Trees")
