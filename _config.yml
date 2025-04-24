@@ -72,7 +72,7 @@ content:
         quote: >
           Om att implementera automation
         description: | # this will include new lines to allow paragraphs
-          Jag skrev mitt examensarbete om att implementera automation i hybridmiljö. Anledningen? Jag tycker om automation och speciellt med <mark>Ansible</mark>. Det är någonting visst att få ett fullfjädrat skript att fungera. Genom arbetets gång lärde jag mig nya färdigheter som jag kommer ha nytta av och är stolt över resultatet!
+          Mitt examensarbete handlar om att implementera automation i hybridmiljö. Anledningen? Jag tycker om automation och speciellt med <mark>Ansible</mark>. Det är någonting visst att få ett fullfjädrat skript att fungera. Genom arbetets gång lärde jag mig nya färdigheter som jag kommer ha nytta av och är stolt över resultatet!
 
   - title: Utbildning # Title for the section
     layout: list # Type of content section (list/text)
@@ -86,7 +86,7 @@ content:
         quote: >
           Yrkeshögskola i djupaste Småland som bedrivits sedan 1996. Med mycket tid förlagd för praktik garanteras erfarenhet.*
         description: | # this will include new lines to allow paragraphs
-          Under min utbildning har jag fått lära mig mycket om relevant IT; allt från M365 till ISO/OSI-modellen. Under de båda åren som utbildningen pågick spenderades mycket tid på praktik vilket varit värdefullt. Jag gjorde min praktik på Nordlo i Ljungby och Operating Systems på INGKA AB. På båda placeringarna fick jag chans att lära mig mycket, fått insikt i de många olika aspekterna som finns inom IT.
+          Under min utbildning har jag fått lära mig mycket om relevant IT; allt från M365 till ISO/OSI-modellen. Under de båda åren som utbildningen pågick spenderades mycket tid på praktik vilket varit värdefullt. Jag gjorde min praktik på Nordlo i Ljungby och Operating Systems på INGKA AB. På båda placeringarna fick jag chans att lära mig mycket, fått insikt i de många olika aspekterna som finns inom IT. 
 
   - title: Yrkeserfarenhet # Title for the section
     layout: list # Type of content section (list/text)
@@ -100,14 +100,14 @@ content:
         quote: >
           Vårt uppdrag är att främja hälsa, hållbarhet och tillväxt i Kronoberg. Vår vision är ett gott liv i ett livskraftigt Kronoberg.*
         description: | # this will include new lines to allow paragraphs
-          Arbete där jag var anställd som vårdadministratör och utförde allehanda administrativa arbetsuppgifter, fick också agera som de facto IT-tekniker bland kollegor. Hade ett flertal olika roller inom organisationen som varit nyttiga erfarenheter.
+          Arbete där jag var anställd som vårdadministratör och utförde allehanda administrativa arbetsuppgifter, fick också agera som de facto IT-tekniker bland kollegor. Hade ett flertal olika roller inom organisationen som varit nyttiga erfarenheter, bland annat att leda olika projekt.
 
   - title: Lite mer om mig!
     layout: text
     content: | # this will include new lines to allow paragraphs
       Förutom att syssla med IT och mitt hemmalabb så gillar jag:
-      - Familjen, stolt bonuspappa.
-      - Musik, lyssnande (spelar ytterst lite).
+      - Familjen, stolt bonuspappa!
+      - Musik, lyssnande (spelar lite).
       - Husprojekt, för det måste man om man har ett hus.
       - [Cats!](https://www.youtube.com/watch?v=3BdGBZIWPcY)
 
